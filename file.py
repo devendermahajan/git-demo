@@ -1,2 +1,1 @@
-print("Hello World!")
-print("Bye")
+print("New content has been introduced.")
