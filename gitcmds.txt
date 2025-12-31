@@ -1,0 +1,12 @@
+Id CommandLine
+  -- -----------
+   1 try { . "c:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\contrib\termina...
+   2 & "C:/Program Files/Python314/python.exe" c:/Users/IICT/git-demo/newfile.py
+   3 git add newfile.py
+   4 git status
+   5 git commit -m "a new program"
+   6 git commit -m "a new program"& "C:/Program Files/Python314/python.exe" c:/Users/IICT/git-d...
+   7 py newfile.py
+   8 git commit -m "a changes made"
+   9 git add newfile.py
+  10 git status
